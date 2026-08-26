@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-Read in: [Português](README.pt.md) | [English](README.md)
+Read in: [Português](README.pt.md) | English
 
 Java exercises from the first semester of the Introduction to Programming course.
 
